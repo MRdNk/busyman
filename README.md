@@ -1,4 +1,4 @@
 busyman
 =======
 
-Simple Dev. Documentation Tool
+Simple Development Documentation Tool
