@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+        "name": "CancerRM"
+      , "version": "3.0.0"
+      , "developer": "Duncan Angus Wilkie"
+      , "github": ""
+    }
+  ]
+}
